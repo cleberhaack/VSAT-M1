@@ -1,6 +1,17 @@
 # Núcleo de pesquisa - VSAT
 
-Este projeto possui o objetivo principal de ...
+Este projeto possui o objetivo principal de pesquisar, desenvolver e elaborar artigos de um cubesat utilizando COS para divulgação da VSAT Space-Program. Deverá ter sensores de altura, GPS, temperatura e pressão. Irá utilizar arduino para processamento de dados e LORA para transmissão a uma altura de 35 á 50km. O cubesat será lançado de um balão e sua unidade deverá ser resgatada utilizando paraquedas para a descida, a localização do cubesat no chão deverá ser fornecida com a maior precisão possivel por esses equipamentos.
+
+A elaboração de pesquisas e suas datas de entrega deverá ser na seguinte ordem:
+
+--Prazo Final 14/03/2019--
+Estudo teórico de viablidade sobre a utilização de LORA para transmissão de RF acima de 35km (base e cubesat);
+
+--Prazo Final 15/06/2019--
+Estudo teórico/prático de viablidade sobre a utilização de LORA para transmissão de RF acima de 35km (base e cubesat);
+
+--Prazo Final 16/10/2019--
+Elaboração de um artigo com resultados da missão 1 citada acima, para eventos científicos.
 
 ## Inicialização
 Para iniciar a utilização deste projeto:
