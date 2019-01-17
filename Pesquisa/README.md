@@ -28,8 +28,10 @@ Os requisitos foram levantados pela equipe VSAT. Este são requisitos especifica
 ### Requisitos Funcionais
 Respeitando a proposta, o sistema deverá atender os seguintes requisitos:
 
-* **RF1** - Possuir sensor de temperatura.
-* **RF2** - Possuir sensor de umidade.
+* **RF1** - Possuir sensor de temperatura externa e interna.
+* **RF2** - Possuir sensor de Pressão.
+* **RF3** - Possuir sensor de Altura.
+* **RF4** - Possuir sensor de GPS com redundancia.
 
 ## Requisitos Não-Funcionais
 
